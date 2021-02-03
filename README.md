@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chhavi Dudeja</h1>
-<h3 align="center">#include<i can interact with machines better than humans></h3>
+<h3 align="center">i can interact with machines better than humans</h3>
 
 - 📫 How to reach me **chhavidudeja232@gmail.com**
 
